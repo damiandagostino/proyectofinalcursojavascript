@@ -1,0 +1,46 @@
+[
+    {
+        "id" : "Show-1",
+        "nombre": "Desastre Stand Up",
+        "imagen": "../assets/img/desastrestandup.jpeg",
+        "precio": 2000,
+        "desc": "Unico show que cumple con el etiquetado frontal. Si tiene etiqueta esta bueno!",
+        "cantidad": 1
+    },
+
+    {
+        "id": "Show-2",
+        "nombre": "After Wakanda",
+        "imagen": "../assets/img/afterwakanda.jpg",
+        "precio": 1500,
+        "desc": "Cuando queres seguirla un rato mas nostoros te hacemos el agunte. Venite!",
+        "cantidad": 1
+    },
+
+    {
+        "id": "Show-3",
+        "nombre": "Cosas de Cabrito",
+        "imagen": "../assets/img/cosasdecabrito.jpg",        
+        "precio": 1800,
+        "desc": "Meee, gusta reir, meee, gusta aplaudir, teeenes que venir!",
+        "cantidad": 1
+    },
+
+    {
+        "id": "Show-4",
+        "nombre": "El Kaputt",
+        "imagen": "../assets/img/elotrostandupkaputt.jpeg",        
+        "precio": 1600,
+        "desc": "El kaputt es un desafio para los comediantes, tienen 4 min para hacerte reir, si no lo logran KAPUTT!! ",
+        "cantidad": 1
+    },
+
+    {
+        "id": "Show-5",
+        "nombre": "Otra Orbita",
+        "imagen": "../assets/img/otraorbita.jpeg",        
+        "precio": 2500,
+        "desc": "Dos comediantes suben, solo uno sobrevive. Veni a elegir al ganador",
+        "cantidad": 1
+    }
+]
